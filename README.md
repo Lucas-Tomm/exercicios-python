@@ -80,3 +80,9 @@ Nos exercícios que solicitam dados, informe os valores quando o programa pedir.
 
 Atividade desenvolvida individualmente por Lucas Corrêa Tomm. A resolução utiliza apenas
 os conceitos básicos solicitados no enunciado.
+
+## Dificuldades e soluções
+
+Foram conferidos os casos de fronteira das condicionais, como média 4, média 6 e idade 16.
+No exercício 25, a ordem inversa foi produzida percorrendo os índices da lista do último ao
+primeiro, sem usar uma solução pronta da linguagem.
