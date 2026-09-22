@@ -1,0 +1,15 @@
+# Cache de bytecode do Python
+__pycache__/
+*.py[cod]
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Configurações locais de editores
+.vscode/
+.idea/
+
+# Arquivo usado apenas como enunciado local da atividade
+Lista_Exercicios_Python_Atividade.pdf
